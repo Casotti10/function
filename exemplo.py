@@ -5,4 +5,7 @@ def soma(a, b):
 #Programa principal
 soma (4, 5) 
 soma (2, 5)
-soma(10, 5)
+soma(10, 5) 
+
+
+

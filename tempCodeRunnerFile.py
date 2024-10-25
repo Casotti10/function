@@ -1,1 +1,1 @@
-GalEra
+soma += numero
